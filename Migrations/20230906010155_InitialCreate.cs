@@ -50,6 +50,8 @@ namespace RpgApi.Migrations
         {
             migrationBuilder.DropTable(
                 name: "TB_PERSONAGENS");
+
+    
         }
     }
 }

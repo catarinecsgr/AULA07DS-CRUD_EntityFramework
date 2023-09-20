@@ -216,3 +216,8 @@ D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\obj\Debug\net7
 D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\obj\Debug\net7.0\RpgApi.pdb
 D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
 D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\bin\Debug\net7.0\publish\web.config
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\bin\Debug\net7.0\publish\appsettings.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\bin\Debug\net7.0\publish\RpgApi.deps.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_07\RpgApi\RpgApi\bin\Debug\net7.0\publish\RpgApi.runtimeconfig.json
